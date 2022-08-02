@@ -1,0 +1,30 @@
+.navbar{
+    position:relative !important;
+    padding:0 !important;
+    z-index: 1;
+  
+}
+
+.navbar-nav{
+    justify-content: center !important;
+    align-items: center !important;
+    margin: 0 auto !important;
+}
+.nav-link{
+    font-size: 20px !important;
+    cursor: pointer;
+    color: hsl(0, 0%, 100%) !important;
+
+}
+.nav-link:hover{
+    background-color: #23af7e;
+    color: white !important;
+}
+
+.logos img {
+    width: 50px !important;
+    margin-left: 40px;
+}
+.logos > span{
+    color: #fff !important;
+}

@@ -1,0 +1,49 @@
+.vis-container{
+  font-size: 22px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #2cdd9c;
+  border-radius: 0 40px 0 40px;
+  padding: 10px 0;
+  transition: 0.4s ease;
+}
+
+.vis-container:hover{
+  background-color: #11a871;
+}
+
+li{
+  margin-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  list-style: none;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+
+header > p {
+  position: relative;
+  font-size: 40px;
+  align-items: center;
+  text-align: center;
+  color: #10AB73;
+}
+.icons{
+  width: 100px;
+  border-radius: 60%;
+  margin: 20px ;
+}
+
+.content-edukasi{
+  position: relative;
+  margin: 20px;
+  border-radius: 0 40px 0 40px;
+  background-color: #d9fff1;
+  box-shadow: inset 5px 5px 15px rgba(27, 121, 24, 0.15),
+  inset -5px -5px 15px rgba(5, 254, 34, 0.15);
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+}
